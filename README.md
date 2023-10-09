@@ -51,4 +51,4 @@ The model performed pretty well after optimization techniques.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to FigureEight for the data.  You can find the Licensing for the data and other descriptive information at the FigureEight link available [here]([https://appen.com/]).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to FigureEight for the data.  You can find the Licensing for the data and other descriptive information at the FigureEight link available [here](https://appen.com/).  Otherwise, feel free to use the code here as you would like! 
