@@ -14,14 +14,14 @@
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 About the data used , which are disaster_message.csv and disaster_categories.csv provided by FigureEight can be also found on data folder uploaded.
 
-1.Run the following commands in the project's root directory to set up your database and model.
+1. Run the following commands in the project's root directory to set up your database and model.
     To run ETL Pipeline, run below command to clean data and saved in into Database:
         'python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db'
     To run ML pipeline that trains classifier and saves on shell
         'python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl'
 2. Run the following commands  to run the web app.
-    'cd app'
-    'python run.py'
+        'cd app'
+        'python run.py'
 
 ## Project Motivation<a name="motivation"></a>
 
