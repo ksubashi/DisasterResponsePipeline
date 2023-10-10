@@ -35,8 +35,8 @@ by using machine learning algorithms and ETL steps for everything. The data are 
 2. app folder:
    * 'run.py'- Flask file that runs app
    * templates:
-         * master.html - main page of web app
-         * go.html - classification result page of web app
+         *   master.html - main page of web app
+         *   go.html - classification result page of web app
 3. data folder:
    * DisasterResponseDB.db - Database where cleaned dataframe is stored
    * diaster_categories.csv and disaster_messages.csv - data to be processed and analyzed
